@@ -4,13 +4,15 @@
 		return {	
 			controller: 'demoGrid',
 			templateUrl: 'js/views/genericGrid.html',
-			scope: {			
-				
-			}
-			
-		};
-		
+			scope: {}
+		};		
 	})
+	.directive("financialPeriodGrid", function() {
 	
-	
+	return {	
+			controller: 'financialPeriodController',
+			templateUrl: 'js/views/genericGrid.html',
+			scope: {}
+		};
+	})
 	;	
