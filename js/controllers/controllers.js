@@ -2,12 +2,7 @@
 angular.module("GenericGrid.controller", ["kendo.directives", "defaults"])
 
 .controller("financialPeriodController", function ($scope, gridDefaults, formatDefaults) {
-	var clickEdit = function (e) {
-		debugger;
-	};
-	var clickDelete = function (e) {
-		debugger;
-	};
+	
 	var customSettings = {
 		dataSource : {
 			transport : {
