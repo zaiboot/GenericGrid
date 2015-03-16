@@ -1,0 +1,52 @@
+{
+	"Data" : [{
+			"Id" : 0,
+			"DisplayName" : null,
+			"Period" : 3,
+			"Year" : 2015,
+			"StartTime" : "\/Date(1425938700000)\/",
+			"EndTime" : "\/Date(1426802700000)\/",
+			"CertifyEffectiveDate" : null,
+			"Status" : true
+		}, {
+			"Id" : 0,
+			"DisplayName" : null,
+			"Period" : 2,
+			"Year" : 2015,
+			"StartTime" : "\/Date(1422203100000)\/",
+			"EndTime" : "\/Date(1423671900000)\/",
+			"CertifyEffectiveDate" : null,
+			"Status" : false
+		}, {
+			"Id" : 0,
+			"DisplayName" : null,
+			"Period" : 2,
+			"Year" : 2015,
+			"StartTime" : "\/Date(1422202320000)\/",
+			"EndTime" : "\/Date(1423671120000)\/",
+			"CertifyEffectiveDate" : null,
+			"Status" : false
+		}, {
+			"Id" : 0,
+			"DisplayName" : null,
+			"Period" : 2,
+			"Year" : 2015,
+			"StartTime" : "\/Date(1422201660000)\/",
+			"EndTime" : "\/Date(1423670460000)\/",
+			"CertifyEffectiveDate" : null,
+			"Status" : false
+		}, {
+			"Id" : 0,
+			"DisplayName" : null,
+			"Period" : 2,
+			"Year" : 2015,
+			"StartTime" : "\/Date(1422830280000)\/",
+			"EndTime" : "\/Date(1425163080000)\/",
+			"CertifyEffectiveDate" : "\/Date(1333173600000)\/",
+			"Status" : false
+		}
+	],
+	"Total" : 21,
+	"AggregateResults" : null,
+	"Errors" : null
+}

@@ -1,5 +1,6 @@
 //defaults.js
-angular.module('defaults', []).value('gridDefaults' , {                
+angular.module('defaults', [])
+	.value('gridDefaults' , {                
                 sortable: true,
                 pageable: true,
 				dataSource: {
@@ -19,4 +20,8 @@ angular.module('defaults', []).value('gridDefaults' , {
 
 					},
 				}
-			);
+			)
+.value('formatDefaults' , {
+		ShortDateFormat: "{0:d}" ,
+		LongDateFormat: "{0:MM/dd/yyyy h:mm:ss}"
+});
