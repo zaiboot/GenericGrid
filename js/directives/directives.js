@@ -3,7 +3,11 @@
 	.directive("demoGrid", function() {
 		return {	
 			controller: 'demoGrid',
-			templateUrl: 'js/views/genericGrid.html'
+			templateUrl: 'js/views/genericGrid.html',
+			scope: {			
+				
+			}
+			
 		};
 		
 	})
